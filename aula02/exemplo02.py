@@ -58,14 +58,15 @@
 #----------------------------------------------------
 #Atividade de cálculo de porcentagem
 
-preco=float(input('Informe o preço:       '))
-qtde=int(input('Informe a quantidade:     '))
-total_a_bruto=preco * qtde
-desconto=total_a_bruto * 0.1 # Refere-se a 10% de desconto sobre o valor total
-#10 % pode ser *0.1 ou 10/100
-total_a_pagar = total_a_bruto-desconto
-print(f'O total a pagar será:{total_a_pagar}.')
-print(f'Você recebeu o desconto de:{desconto}.')
+# preco=float(input('Informe o preço:       '))
+# qtde=int(input('Informe a quantidade:     '))
+# total_a_bruto=preco * qtde
+# desconto=total_a_bruto * 0.1 # Refere-se a 10% de desconto sobre o valor total
+# #10 % pode ser *0.1 ou 10/100
+# total_a_pagar = total_a_bruto-desconto
+# print(f'O total a pagar será:{total_a_pagar}.')
+# print(f'Você recebeu o desconto de:{desconto}.')
+
 
 
 
