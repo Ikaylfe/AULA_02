@@ -20,10 +20,10 @@
 
 #exercício sem correção - verificar partes comentadas 
 
-salario_inicial=float(input('Digite seu salário atual:  '))
-bonus=salario_inicial*0.50
-novo_salario=salario_inicial+bonus
-print (f'Você recebeu bônus de {bonus}, seu novo salário será: {novo_salario} ')
+# salario_inicial=float(input('Digite seu salário atual:  '))
+# bonus=salario_inicial*0.50
+# novo_salario=salario_inicial+bonus
+# print (f'Você recebeu bônus de {bonus}, seu novo salário será: {novo_salario} ')
 
 # ------------------ após correção
 
@@ -32,5 +32,5 @@ print (f'Você recebeu bônus de {bonus}, seu novo salário será: {novo_salario
 # novo_salario=salario_inicial+bonus
 # print (f'Você recebeu bônus de {bonus:.2f}, seu novo salário será: {novo_salario:.2f} ') #.2f ( separador limitando 2 casas decimais evitando dízimas períódicas)
 
-
+#------------------
 
